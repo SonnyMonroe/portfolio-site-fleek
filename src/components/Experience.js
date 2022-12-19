@@ -13,7 +13,7 @@ const Experience = () => {
                 <li>
                     <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
                     <ul>
-                        <li>Studied Psychology and Sociology development</li>
+                        <li>Studied Psychology and Sociology</li>
                         <li>Assisted Research &amp; on patients with dementia</li>
                     </ul>
                 </li>
