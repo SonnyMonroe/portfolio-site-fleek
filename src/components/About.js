@@ -10,7 +10,7 @@ const About = () => {
 
             I am currently enrolled in Harvard's Introduction to Computer Science CS50 program so I can discover the realm of Computer Science and Web Development. 
 
-            Ultimately, I wish to use my newfound knowledge and experience to contribute to the decentralized economy by developing Decentralized Blockchain applications on the Ethereum Virtual Machine or Cosmos's SDK.
+            Im deeply committed to the principles of decentralization and privacy. I believe that these principles are essential for creating a more open, transparent, and secure world, and I am excited to contribute my skills and expertise to projects that align with these values.
             </p>
         </section>
     );
